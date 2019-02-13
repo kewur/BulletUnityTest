@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/.Rider2018.3/system/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.Rider2018.3/system/resharper-host/local/Transient/ReSharperHost/v183/SolutionCaches/_Testing.-1333907414.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="ExternalTools" t="Include">
+          <e p="Documentation" t="Include">
+            <e p="README-REALY-README.txt" t="Include" />
+            <e p="README-UniversalWindowsPlatform.txt" t="Include" />
+          </e>
+          <e p="Examples" t="Include">
+            <e p="SceneMenu" t="Include">
+              <e p="BackButton.cs" t="Include" />
+              <e p="Editor" t="Include">
+                <e p="UpdateScenesListMenu.cs" t="Include" />
+              </e>
+              <e p="SceneMenu.cs" t="Include" />
+              <e p="ScenesList.cs" t="Include" />
+            </e>
+            <e p="Scenes" t="Include">
+              <e p="BulletSharpDemos" t="Include">
+                <e p="BulletSharpDemos" t="Include">
+                  <e p="BasicDemo" t="Include">
+                    <e p="BasicDemo.cs" t="Include" />
+                  </e>
+                  <e p="BenchmarkDemo" t="Include">
+                    <e p="BenchmarkDemo.cs" t="Include" />
+                    <e p="Taru.cs" t="Include" />
+                  </e>
+                  <e p="Box2DDemo" t="Include">
+                    <e p="Box2DDemo.cs" t="Include" />
+                  </e>
+                  <e p="BspDemo" t="Include">
+                    <e p="BspConverter.cs" t="Include" />
+                    <e p="BspDemo.cs" t="Include" />
+                    <e p="BspLoader.cs" t="Include" />
+                  </e>
+                  <e p="BulletExampleRunner.cs" t="Include" />
+                  <e p="BulletMultiBodyLinkColliderProxy.cs" t="Include" />
+                  <e p="BulletRigidBodyProxy.cs" t="Include" />
+                  <e p="BulletRopeProxy.cs" t="Include" />
+                  <e p="BulletSoftBodyProxy.cs" t="Include" />
+                  <e p="CcdPhysicsDemo" t="Include">
+                    <e p="CcdPhysicsDemo.cs" t="Include" />
+                  </e>
+                  <e p="CharacterDemo" t="Include">
+                    <e p="BspConverter.cs" t="Include" />
+                    <e p="BspLoader.cs" t="Include" />
+                    <e p="CharacterDemo.cs" t="Include" />
+                  </e>
+                  <e p="CollisionInterfaceDemo" t="Include">
+                    <e p="CollisionInterfaceDemo.cs" t="Include" />
+                  </e>
+                  <e p="ConcaveConvexCastDemo" t="Include">
+                    <e p="ConcaveConvexCastDemo.cs" t="Include" />
+                  </e>
+                  <e p="ConcaveRaycastDemo" t="Include">
+                    <e p="ConcaveRaycastDemo.cs" t="Include" />
+                  </e>
+                  <e p="ConstraintDemo" t="Include">
+                    <e p="ConstraintDemo.cs" t="Include" />
+                  </e>
+                  <e p="ConvexDecompositionDemo" t="Include">
+                    <e p="ConvexDecomposition.cs" t="Include" />
+                    <e p="ConvexDecompositionDemo.cs" t="Include" />
+                    <e p="Wavefront.cs" t="Include" />
+                  </e>
+                  <e p="DemoFramework" t="Include">
+                    <e p="Demo.cs" t="Include" />
+                  </e>
+                  <e p="DemoFramework2UnityInterface.cs" t="Include" />
+                  <e p="DistanceDemo" t="Include">
+                    <e p="DistanceDemo.cs" t="Include" />
+                  </e>
+                  <e p="FeatherStoneDemo" t="Include">
+                    <e p="FeatherStoneDemo.cs" t="Include" />
+                  </e>
+                  <e p="GImpactTestDemo" t="Include">
+                    <e p="BunnyMesh.cs" t="Include" />
+                    <e p="GImpactTestDemo.cs" t="Include" />
+                    <e p="TorusMesh.cs" t="Include" />
+                  </e>
+                  <e p="MeshFactory.cs" t="Include" />
+                  <e p="MeshFactory2.cs" t="Include" />
+                  <e p="MotorDemo" t="Include">
+                    <e p="MotorDemo.cs" t="Include" />
+                  </e>
+                  <e p="PendulumDemo" t="Include">
+                    <e p="PendulumDemo.cs" t="Include" />
+                  </e>
+                  <e p="RagdollDemo" t="Include">
+                    <e p="Ragdoll.cs" t="Include" />
+                    <e p="RagdollDemo.cs" t="Include" />
+                  </e>
+                  <e p="RollingFrictionDemo" t="Include">
+                    <e p="RollingFrictionDemo.cs" t="Include" />
+                  </e>
+                  <e p="SerializeDemo" t="Include">
+                    <e p="SerializeDemo.cs" t="Include" />
+                  </e>
+                  <e p="SoftDemo" t="Include">
+                    <e p="Bunny.cs" t="Include" />
+                    <e p="BunnyMesh.cs" t="Include" />
+                    <e p="SoftDemo.cs" t="Include" />
+                    <e p="TorusMesh.cs" t="Include" />
+                  </e>
+                  <e p="VehicleDemo" t="Include">
+                    <e p="CustomVehicle.cs" t="Include" />
+                    <e p="VehicleDemo.cs" t="Include" />
+                  </e>
+                </e>
+              </e>
+              <e p="CharacterController" t="Include">
+                <e p="MoveCharacterController.cs" t="Include" />
+              </e>
+              <e p="CollisionCallbacks" t="Include">
+                <e p="CustomCollisionCallbackScript.cs" t="Include" />
+              </e>
+              <e p="Racast" t="Include">
+                <e p="TestRaycast.cs" t="Include" />
+              </e>
+              <e p="RealtimeSimWithOfflinePrediction" t="Include">
+                <e p="BallThrowTest.cs" t="Include" />
+                <e p="OfflineBallSimulation.cs" t="Include" />
+              </e>
+              <e p="SoftBody" t="Include">
+                <e p="BunnyRainTest.cs" t="Include" />
+                <e p="ExtendedFlycam.cs" t="Include" />
+                <e p="RBRainTest.cs" t="Include" />
+                <e p="RopeSticksArray.cs" t="Include" />
+                <e p="ShootBox.cs" t="Include" />
+                <e p="TestTeleportJump.cs" t="Include" />
+              </e>
+              <e p="Triggers" t="Include">
+                <e p="ExampleTriggerCallback.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Scripts" t="Include">
+              <e p="AddForcesAndTorques.cs" t="Include" />
+              <e p="MoveKinematicObject.cs" t="Include" />
+              <e p="SetAngularAndLinearVelocity.cs" t="Include" />
+              <e p="SimpleOfflineSimulation.cs" t="Include" />
+            </e>
+          </e>
+          <e p="InternalResources" t="Include">
+            <e p="LineRenderFix.shader" t="Include" />
+          </e>
+          <e p="Plugins" t="Include">
+            <e p="BulletUnity" t="Include">
+              <e p="BulletSharp" t="Include">
+                <e p="BSExtensionMethods.cs" t="Include" />
+                <e p="Collision" t="Include">
+                  <e p="ActivatingCollisionAlgorithm.cs" t="Include" />
+                  <e p="AxisSweep3.cs" t="Include" />
+                  <e p="Box2DBox2DCollisionAlgorithm.cs" t="Include" />
+                  <e p="Box2DShape.cs" t="Include" />
+                  <e p="BoxBoxCollisionAlgorithm.cs" t="Include" />
+                  <e p="BoxBoxDetector.cs" t="Include" />
+                  <e p="BoxShape.cs" t="Include" />
+                  <e p="BroadphaseInterface.cs" t="Include" />
+                  <e p="BroadphaseProxy.cs" t="Include" />
+                  <e p="BvhTriangleMeshShape.cs" t="Include" />
+                  <e p="CapsuleShape.cs" t="Include" />
+                  <e p="CollisionAlgorithm.cs" t="Include" />
+                  <e p="CollisionConfiguration.cs" t="Include" />
+                  <e p="CollisionCreateFunc.cs" t="Include" />
+                  <e p="CollisionDispatcher.cs" t="Include" />
+                  <e p="CollisionObject.cs" t="Include" />
+                  <e p="CollisionObjectWrapper.cs" t="Include" />
+                  <e p="CollisionShape.cs" t="Include" />
+                  <e p="CollisionWorld.cs" t="Include" />
+                  <e p="CompoundCollisionAlgorithm.cs" t="Include" />
+                  <e p="CompoundCompoundCollisionAlgorithm.cs" t="Include" />
+                  <e p="CompoundShape.cs" t="Include" />
+                  <e p="ConcaveShape.cs" t="Include" />
+                  <e p="ConeShape.cs" t="Include" />
+                  <e p="ContinuousConvexCollision.cs" t="Include" />
+                  <e p="Convex2DConvex2DAlgorithm.cs" t="Include" />
+                  <e p="Convex2DShape.cs" t="Include" />
+                  <e p="ConvexCast.cs" t="Include" />
+                  <e p="ConvexConcaveCollisionAlgorithm.cs" t="Include" />
+                  <e p="ConvexConvexAlgorithm.cs" t="Include" />
+                  <e p="ConvexHullShape.cs" t="Include" />
+                  <e p="ConvexInternalShape.cs" t="Include" />
+                  <e p="ConvexPenetrationDepthSolver.cs" t="Include" />
+                  <e p="ConvexPlaneCollisionAlgorithm.cs" t="Include" />
+                  <e p="ConvexPointCloudShape.cs" t="Include" />
+                  <e p="ConvexPolyhedron.cs" t="Include" />
+                  <e p="ConvexShape.cs" t="Include" />
+                  <e p="ConvexTriangleMeshShape.cs" t="Include" />
+                  <e p="CylinderShape.cs" t="Include" />
+                  <e p="Dbvt.cs" t="Include" />
+                  <e p="DbvtBroadphase.cs" t="Include" />
+                  <e p="DefaultCollisionConfiguration.cs" t="Include" />
+                  <e p="DiscreteCollisionDetectorInterface.cs" t="Include" />
+                  <e p="Dispatcher.cs" t="Include" />
+                  <e p="EmptyCollisionAlgorithm.cs" t="Include" />
+                  <e p="EmptyShape.cs" t="Include" />
+                  <e p="GImpact" t="Include">
+                    <e p="BoxCollision.cs" t="Include" />
+                    <e p="CompoundFromGImpact.cs" t="Include" />
+                    <e p="GImpactBvh.cs" t="Include" />
+                    <e p="GImpactCollisionAlgorithm.cs" t="Include" />
+                    <e p="GImpactQuantizedBvh.cs" t="Include" />
+                    <e p="GImpactShape.cs" t="Include" />
+                    <e p="TriangleShapeEx.cs" t="Include" />
+                  </e>
+                  <e p="GhostObject.cs" t="Include" />
+                  <e p="GjkConvexCast.cs" t="Include" />
+                  <e p="GjkEpaPenetrationDepthSolver.cs" t="Include" />
+                  <e p="GjkPairDetector.cs" t="Include" />
+                  <e p="HeightfieldTerrainShape.cs" t="Include" />
+                  <e p="ManifoldPoint.cs" t="Include" />
+                  <e p="ManifoldResult.cs" t="Include" />
+                  <e p="MinkowskiPenetrationDepthSolver.cs" t="Include" />
+                  <e p="MinkowskiSumShape.cs" t="Include" />
+                  <e p="MultiSphereShape.cs" t="Include" />
+                  <e p="MultimaterialTriangleMeshShape.cs" t="Include" />
+                  <e p="OptimizedBvh.cs" t="Include" />
+                  <e p="OverlappingPairCache.cs" t="Include" />
+                  <e p="OverlappingPairCallback.cs" t="Include" />
+                  <e p="PersistentManifold.cs" t="Include" />
+                  <e p="PointCollector.cs" t="Include" />
+                  <e p="PolyhedralConvexShape.cs" t="Include" />
+                  <e p="QuantizedBvh.cs" t="Include" />
+                  <e p="RaycastCallback.cs" t="Include" />
+                  <e p="ScaledBvhTriangleMeshShape.cs" t="Include" />
+                  <e p="ShapeHull.cs" t="Include" />
+                  <e p="SimpleBroadphase.cs" t="Include" />
+                  <e p="SimulationIslandManager.cs" t="Include" />
+                  <e p="SoftBodyConcaveCollisionAlgorithm.cs" t="Include" />
+                  <e p="SoftRigidCollisionAlgorithm.cs" t="Include" />
+                  <e p="SoftSoftCollisionAlgorithm.cs" t="Include" />
+                  <e p="SphereBoxCollisionAlgorithm.cs" t="Include" />
+                  <e p="SphereShape.cs" t="Include" />
+                  <e p="SphereSphereCollisionAlgorithm.cs" t="Include" />
+                  <e p="SphereTriangleCollisionAlgorithm.cs" t="Include" />
+                  <e p="SphereTriangleDetector.cs" t="Include" />
+                  <e p="StaticPlaneShape.cs" t="Include" />
+                  <e p="StridingMeshInterface.cs" t="Include" />
+                  <e p="TetrahedronShape.cs" t="Include" />
+                  <e p="TriangleBuffer.cs" t="Include" />
+                  <e p="TriangleCallback.cs" t="Include" />
+                  <e p="TriangleIndexVertexArray.cs" t="Include" />
+                  <e p="TriangleIndexVertexMaterialArray.cs" t="Include" />
+                  <e p="TriangleInfoMap.cs" t="Include" />
+                  <e p="TriangleMesh.cs" t="Include" />
+                  <e p="TriangleMeshShape.cs" t="Include" />
+                  <e p="TriangleShape.cs" t="Include" />
+                  <e p="UniformScalingShape.cs" t="Include" />
+                  <e p="UnionFind.cs" t="Include" />
+                  <e p="VoronoiSimplexSolver.cs" t="Include" />
+                </e>
+                <e p="Dynamics" t="Include">
+                  <e p="ConeTwistConstraint.cs" t="Include" />
+                  <e p="ConstraintSolver.cs" t="Include" />
+                  <e p="ContactConstraint.cs" t="Include" />
+                  <e p="ContactSolverInfo.cs" t="Include" />
+                  <e p="DantzigSolver.cs" t="Include" />
+                  <e p="DiscreteDynamicsWorld.cs" t="Include" />
+                  <e p="DynamicsWorld.cs" t="Include" />
+                  <e p="Featherstone" t="Include">
+                    <e p="MultiBody.cs" t="Include" />
+                    <e p="MultiBodyConstraint.cs" t="Include" />
+                    <e p="MultiBodyConstraintSolver.cs" t="Include" />
+                    <e p="MultiBodyDynamicsWorld.cs" t="Include" />
+                    <e p="MultiBodyJointLimitConstraint.cs" t="Include" />
+                    <e p="MultiBodyJointMotor.cs" t="Include" />
+                    <e p="MultiBodyLink.cs" t="Include" />
+                    <e p="MultiBodyLinkCollider.cs" t="Include" />
+                    <e p="MultiBodyPoint2Point.cs" t="Include" />
+                    <e p="MultiBodySolverConstraint.cs" t="Include" />
+                  </e>
+                  <e p="FixedConstraint.cs" t="Include" />
+                  <e p="GearConstraint.cs" t="Include" />
+                  <e p="Generic6DofConstraint.cs" t="Include" />
+                  <e p="Generic6DofSpring2Constraint.cs" t="Include" />
+                  <e p="Generic6DofSpringConstraint.cs" t="Include" />
+                  <e p="Hinge2Constraint.cs" t="Include" />
+                  <e p="HingeConstraint.cs" t="Include" />
+                  <e p="IAction.cs" t="Include" />
+                  <e p="ICharacterController.cs" t="Include" />
+                  <e p="KinematicCharacterController.cs" t="Include" />
+                  <e p="MlcpSolver.cs" t="Include" />
+                  <e p="MlcpSolverInterface.cs" t="Include" />
+                  <e p="NncgConstraintSolver.cs" t="Include" />
+                  <e p="Point2PointConstraint.cs" t="Include" />
+                  <e p="RaycastVehicle.cs" t="Include" />
+                  <e p="RigidBody.cs" t="Include" />
+                  <e p="RigidBodyConstructionInfo.cs" t="Include" />
+                  <e p="SequentialImpulseConstraintSolver.cs" t="Include" />
+                  <e p="SliderConstraint.cs" t="Include" />
+                  <e p="TypedConstraint.cs" t="Include" />
+                  <e p="UniversalConstraint.cs" t="Include" />
+                  <e p="VehicleRaycaster.cs" t="Include" />
+                  <e p="WheelInfo.cs" t="Include" />
+                </e>
+                <e p="Extras" t="Include">
+                  <e p="BulletFile.cs" t="Include" />
+                  <e p="BulletReader.cs" t="Include" />
+                  <e p="BulletWorldImporter.cs" t="Include" />
+                  <e p="BulletWriter.cs" t="Include" />
+                  <e p="BulletXmlWorldImporter.cs" t="Include" />
+                  <e p="Chunk.cs" t="Include" />
+                  <e p="Dna.cs" t="Include" />
+                  <e p="Hacd.cs" t="Include" />
+                  <e p="WorldImporter.cs" t="Include" />
+                  <e p="bFile.cs" t="Include" />
+                </e>
+                <e p="InvalidDataException.cs" t="Include" />
+                <e p="LinearMath" t="Include">
+                  <e p="AlignedBroadphasePairArray.cs" t="Include" />
+                  <e p="AlignedCollisionObjectArray.cs" t="Include" />
+                  <e p="AlignedIndexedMeshArray.cs" t="Include" />
+                  <e p="AlignedManifoldArray.cs" t="Include" />
+                  <e p="AlignedVector3Array.cs" t="Include" />
+                  <e p="Collections.cs" t="Include" />
+                  <e p="CpuFeatureUtility.cs" t="Include" />
+                  <e p="DebugDraw.cs" t="Include" />
+                  <e p="DefaultMotionState.cs" t="Include" />
+                  <e p="GeometryUtil.cs" t="Include" />
+                  <e p="IDebugDraw.cs" t="Include" />
+                  <e p="MotionState.cs" t="Include" />
+                  <e p="PolarDecomposition.cs" t="Include" />
+                  <e p="Serializer.cs" t="Include" />
+                  <e p="TransformUtil.cs" t="Include" />
+                </e>
+                <e p="Math" t="Include">
+                  <e p="Matrix.cs" t="Include" />
+                  <e p="Quaternion.cs" t="Include" />
+                  <e p="Vector3.cs" t="Include" />
+                  <e p="Vector4.cs" t="Include" />
+                </e>
+                <e p="MathUtil.cs" t="Include" />
+                <e p="Native.cs" t="Include" />
+                <e p="SoftBody" t="Include">
+                  <e p="AlignedAnchorArray.cs" t="Include" />
+                  <e p="AlignedClusterArray.cs" t="Include" />
+                  <e p="AlignedFaceArray.cs" t="Include" />
+                  <e p="AlignedJointArray.cs" t="Include" />
+                  <e p="AlignedLinkArray.cs" t="Include" />
+                  <e p="AlignedMaterialArray.cs" t="Include" />
+                  <e p="AlignedNodeArray.cs" t="Include" />
+                  <e p="AlignedSoftBodyArray.cs" t="Include" />
+                  <e p="AlignedTetraArray.cs" t="Include" />
+                  <e p="Collections.cs" t="Include" />
+                  <e p="DefaultSoftBodySolver.cs" t="Include" />
+                  <e p="SoftBody.cs" t="Include" />
+                  <e p="SoftBodyHelpers.cs" t="Include" />
+                  <e p="SoftBodyRigidBodyCollisionConfiguration.cs" t="Include" />
+                  <e p="SoftBodySolver.cs" t="Include" />
+                  <e p="SoftRigidDynamicsWorld.cs" t="Include" />
+                  <e p="SparseSdf.cs" t="Include" />
+                </e>
+                <e p="Utilities.cs" t="Include" />
+              </e>
+              <e p="Native" t="Include">
+                <e p="OSX" t="Include">
+                  <e p="libbulletc.bundle" t="Include">
+                    <e p="Contents" t="Include">
+                      <e p="Resources" t="Include">
+                        <e p="CMakeLists.txt" t="Include" />
+                      </e>
+                    </e>
+                  </e>
+                </e>
+              </e>
+            </e>
+            <e p="BulletUnity.asmdef" t="Include" />
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="BCamera.cs" t="Include" />
+            <e p="BCharacterController.cs" t="Include" />
+            <e p="BCollisionCallbacks.cs" t="Include" />
+            <e p="BCollisionCallbacksDefault.cs" t="Include" />
+            <e p="BCollisionObject.cs" t="Include" />
+            <e p="BGameObjectMotionState.cs" t="Include" />
+            <e p="BGhostObject.cs" t="Include" />
+            <e p="BPairCachingGhostObject.cs" t="Include" />
+            <e p="BPhysicsWorld.cs" t="Include" />
+            <e p="BPhysicsWorldLateHelper.cs" t="Include" />
+            <e p="BRigidBody.cs" t="Include" />
+            <e p="BSExtensionMethods2.cs" t="Include" />
+            <e p="BTerrainCollisionObject.cs" t="Include" />
+            <e p="BUtility.cs" t="Include" />
+            <e p="CollisionShapes" t="Include">
+              <e p="BBoxShape.cs" t="Include" />
+              <e p="BBvhTriangleMeshShape.cs" t="Include" />
+              <e p="BCapsuleShape.cs" t="Include" />
+              <e p="BCollisionShape.cs" t="Include" />
+              <e p="BCompoundShape.cs" t="Include" />
+              <e p="BConeShape.cs" t="Include" />
+              <e p="BConvexHullShape.cs" t="Include" />
+              <e p="BConvexTriangleMeshShape.cs" t="Include" />
+              <e p="BCylinderShape.cs" t="Include" />
+              <e p="BHeightfieldTerrainShape.cs" t="Include" />
+              <e p="BMultiSphereShape.cs" t="Include" />
+              <e p="BSphereShape.cs" t="Include" />
+            </e>
+            <e p="Constraints" t="Include">
+              <e p="B6DOFConstraint.cs" t="Include" />
+              <e p="BBallSocketConstraint.cs" t="Include" />
+              <e p="BConeTwistConstraint.cs" t="Include" />
+              <e p="BFixedConstraint.cs" t="Include" />
+              <e p="BHingedConstraint.cs" t="Include" />
+              <e p="BSliderConstraint.cs" t="Include" />
+              <e p="BTypedConstraint.cs" t="Include" />
+              <e p="Editor" t="Include">
+                <e p="B6DOFConstraintEditor.cs" t="Include" />
+                <e p="BBallSocketConstraintEditor.cs" t="Include" />
+                <e p="BConeTwistConstraintEditor.cs" t="Include" />
+                <e p="BFixedConstraintEditor.cs" t="Include" />
+                <e p="BHingedConstraintEditor.cs" t="Include" />
+                <e p="BSliderConstraintEditor.cs" t="Include" />
+                <e p="BTypedConstraintEditor.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Debug" t="Include">
+              <e p="BDebug.cs" t="Include" />
+            </e>
+            <e p="DebugDrawUnity.cs" t="Include" />
+            <e p="Editor" t="Include">
+              <e p="BBoxShapeEditor.cs" t="Include" />
+              <e p="BBvhTriangleMeshShapeEditor.cs" t="Include" />
+              <e p="BCapsuleShapeEditor.cs" t="Include" />
+              <e p="BCollisionObjectEditor.cs" t="Include" />
+              <e p="BCompoundShapeEditor.cs" t="Include" />
+              <e p="BConeShapeEditor.cs" t="Include" />
+              <e p="BConvexHullShapeEditor.cs" t="Include" />
+              <e p="BConvexTriangleMeshShapeEditor.cs" t="Include" />
+              <e p="BCylinderShapeEditor.cs" t="Include" />
+              <e p="BGhostObjectEditor.cs" t="Include" />
+              <e p="BMultiSphereShapeEditor.cs" t="Include" />
+              <e p="BPairCachingGhostObjectEditor.cs" t="Include" />
+              <e p="BPhysicsWorldEditor.cs" t="Include" />
+              <e p="BPrimitiveComponentOrderSorter.cs" t="Include" />
+              <e p="BRigidBodyEditor.cs" t="Include" />
+              <e p="BSoftBodyComponentOrderSorter.cs" t="Include" />
+              <e p="BSoftBodyEditor.cs" t="Include" />
+              <e p="BSphereShapeEditor.cs" t="Include" />
+              <e p="EditorHelpers.cs" t="Include" />
+              <e p="EditorInterface.cs" t="Include" />
+              <e p="PrimitiveEditor.cs" t="Include" />
+            </e>
+            <e p="Extensions" t="Include">
+              <e p="EnumsExtension.cs" t="Include" />
+            </e>
+            <e p="Primitives" t="Include">
+              <e p="BBox.cs" t="Include" />
+              <e p="BCapsule.cs" t="Include" />
+              <e p="BCone.cs" t="Include" />
+              <e p="BConvexHull.cs" t="Include" />
+              <e p="BConvexTriMesh.cs" t="Include" />
+              <e p="BCylinder.cs" t="Include" />
+              <e p="BPrimitive.cs" t="Include" />
+              <e p="BSphere.cs" t="Include" />
+              <e p="EnumerationExtensions.cs" t="Include" />
+            </e>
+            <e p="ProceduralMeshes" t="Include">
+              <e p="PPMeshFactory.cs" t="Include" />
+              <e p="ProceduralPrimitives.cs" t="Include" />
+            </e>
+            <e p="SoftBody" t="Include">
+              <e p="BSoftBody.cs" t="Include" />
+              <e p="BSoftBodyPartOnSkinnedMesh.cs" t="Include" />
+              <e p="BSoftBodyRope.cs" t="Include" />
+              <e p="BSoftBodyWMesh.cs" t="Include" />
+              <e p="SBSettings.cs" t="Include" />
+            </e>
+          </e>
+          <e p="license.txt" t="Include" />
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="TestingScript.cs" t="Include" />
+        </e>
+      </e>
+      <e p="BulletUnity.csproj" t="IncludeRecursive" />
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+      <e p="Testing.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
